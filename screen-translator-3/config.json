@@ -1,0 +1,10 @@
+{
+    "hotkey": "ctrl+alt+q",
+    "popup_position": "below_selection",
+    "source_lang": "zh",
+    "target_lang": "en",
+    "popup_width": 420,
+    "popup_max_height": 400,
+    "log_file": "logs/app.log",
+    "log_level": "INFO"
+}
