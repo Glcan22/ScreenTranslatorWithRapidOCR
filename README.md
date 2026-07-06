@@ -1,0 +1,2 @@
+# ScreenTranslatorWithRapidOCR
+ScreenTranslatorWithOCR
